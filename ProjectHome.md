@@ -1,0 +1,1 @@
+Program developed in Visual C# 2008 for Huawei E226 GSM/GPRS Modem. Minimal functionality includes sending and receiving SMS, parsing and storing of data to database.
